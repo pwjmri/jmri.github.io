@@ -1,2 +1,2 @@
-# pwjmri-jmri.github.io
+# jmri.github.io
 chat
